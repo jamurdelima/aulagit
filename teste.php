@@ -1,3 +1,4 @@
 <?php
- teste
-?;>
+ echo "Olá Teste";
+echo "bug arrumado";
+?>
